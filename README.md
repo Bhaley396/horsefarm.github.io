@@ -1,8 +1,7 @@
-<!doctype html>
+
 <html>
 <head>
 <meta charset="utf-8">
-<title>HORSE_FARMING</title>
 <style>
 *{
 	margin:0;
